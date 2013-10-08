@@ -1,0 +1,6 @@
+"Gamemode"
+{
+	"title"		"CoverTest"
+	"base"		"base"
+	"menusystem" "1"
+}
